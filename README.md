@@ -106,13 +106,13 @@ Na segunda aula, se explica sobre CSS Responsivo e javaScript
 
 > Na terceita aula, aprendemos sobre padronização de estrutura HTML e CSS e sobre utilização de Libs JavaScript.
 
-![Print_terceiro_dia_1](./assets/pictures/terceiro1.png)
+![Print_terceiro_dia_1](./assets/pictures/terceiro1.PNG)
 
 > Aprendemos a criar `section` no HTML para separar as sessões de conteúdo da página
 
-![Print_terceiro_dia_2](./assets/pictures/terceiro2.png)
+![Print_terceiro_dia_2](./assets/pictures/terceiro2.PNG)
 
-![Print_terceiro_dia_3](./assets/pictures/terceiro3.png)
+![Print_terceiro_dia_3](./assets/pictures/terceiro3.PNG)
 
 > Criamos a sessão Sobr (about), mas antes organizamos todo o HTML para ter um facil entendimento do que será construido, separando as estilizações globais das específicas no CSS tornando assim mais facil a leitura do documento e a criação de novas sessões utilizando a estrutura criada para auxiliar nas novas estilizações!
 
