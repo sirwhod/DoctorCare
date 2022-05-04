@@ -20,7 +20,7 @@ Nas video aulas, que aconteceram no periodo de 7 dias `01/05/2022 á 08/05/2022`
 
 - [x] Aula 1 - O Ponto de Partida
 - [x] Aula 2 - Aceleração máxima
-- [ ] Aula 3 - Novas Habilidades
+- [x] Aula 3 - Novas Habilidades
 - [ ] Aula 4 - Não Definido
 - [ ] Aula 5 - Não Definido
 
