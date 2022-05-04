@@ -56,11 +56,11 @@ Na segunda aula, se explica sobre CSS Responsivo e javaScript
 
 > Aprendemos a criar uma Barra Navigation para criar menus de navegação dentro do site
 
-![Print_segundo_dia_2](./assets/pictures/segundo2.png)
+![Print_segundo_dia_2](./assets/pictures/segundo2.PNG)
 
 > Com javaScript aprendemos a introduzir uma classe CSS em um elemento HTML através de eventos
 
-![Print_segundo_dia_3](./assets/pictures/segundo3.png)
+![Print_segundo_dia_3](./assets/pictures/segundo3.PNG)
 
 > Aprendemos a ocultar todos os elementos da página menos a barra de navegação para assim criar uma função javaScript que faça a tela focar somente nesta barra.
 
