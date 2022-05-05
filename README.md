@@ -151,15 +151,15 @@ Na segunda aula, se explica sobre CSS Responsivo e javaScript
 
 > Hoje aprendemos mais como deixar o código mais dinâmico, criando variáveis com o CSS utilisando o formato HSL de cores no projeto, também utilizamos seletores capazes de alterar as cores de um elemento svg, buscando em sua estrutura cores específicas para realizar a alteração.
 
-  [Print_quarto_dia_1](./assets/pictures/quarto1.PNG)
+  ![Print_quarto_dia_1](./assets/pictures/quarto1.PNG)
 
 > Adicionamos também as sessões de contato, juntamente com um botão que faz a página voltar ao topo chamado `#backToTopButton`
 
-  [Print_quarto_dia_2](./assets/pictures/quarto2.PNG)
+  ![Print_quarto_dia_2](./assets/pictures/quarto2.PNG)
 
 > E o Footer do projeto
 
-  [Print_quarto_dia_3](./assets/pictures/quarto3.PNG)
+  ![Print_quarto_dia_3](./assets/pictures/quarto3.PNG)
 
 **Temas Ensinados**
 
