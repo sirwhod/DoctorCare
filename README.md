@@ -21,7 +21,7 @@ Nas video aulas, que aconteceram no periodo de 7 dias `01/05/2022 á 08/05/2022`
 - [x] Aula 1 - O Ponto de Partida
 - [x] Aula 2 - Aceleração máxima
 - [x] Aula 3 - Novas Habilidades
-- [ ] Aula 4 - Um novo Território
+- [x                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         ] Aula 4 - Um novo Território
 - [ ] Aula 5 - Não Definido
 
 **Meus Objetivos após a finalização das aulas**
@@ -146,3 +146,33 @@ Na segunda aula, se explica sobre CSS Responsivo e javaScript
     - [x] `string` com Template Literals (Template String) ``
   - [x] Biblioteca de terceiros
     - [x] [ScrollReveal (scrollrevealjs.org)](https://scrollrevealjs.org/)
+
+**Quarta Aula - Um novo Território**
+
+> Hoje aprendemos mais como deixar o código mais dinâmico, criando variáveis com o CSS utilisando o formato HSL de cores no projeto, também utilizamos seletores capazes de alterar as cores de um elemento svg, buscando em sua estrutura cores específicas para realizar a alteração.
+
+  [Print_quarto_dia_1](./assets/pictures/quarto1.PNG)
+
+> Adicionamos também as sessões de contato, juntamente com um botão que faz a página voltar ao topo chamado `#backToTopButton`
+
+  [Print_quarto_dia_2](./assets/pictures/quarto2.PNG)
+
+> E o Footer do projeto
+
+  [Print_quarto_dia_3](./assets/pictures/quarto3.PNG)
+
+**Temas Ensinados**
+
+  - Seção `Contact`
+  - Padronizar botões `.button`
+    - `:hover`
+  - Rodapé `<footer>`
+  - Ajustes de imagens
+  - Ajuste de carregamento da função `onScroll()`
+    - `.addEventListener('event', function() {})`
+  - Mudança nas cres da ágina
+    - `<svg>`
+      - fill
+      - stroke
+    - Não podemos fazer isso com imagens fechadas como .png ou .jpg
+  - Adicionar link para contato via whatsapp `https://wa.me/5500987654321`
